@@ -15,3 +15,6 @@ shomareh_farzand = 5
 ostan_mahal_zendgy = 13
 
 TwoCaptcha_Token = '1eef218278f7d4bd9f5013f6e24f0804'
+
+bank_mored_nazare = ['ملت']
+
